@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="purenexus-caf"
-           fetch="https://github.com/PureNexus-CAF/"
+           fetch="https://github.com/PureNexusProject-Mod/"
            revision="n-mr1-caf" />
   <remote name="du"
            fetch="https://github.com/DirtyUnicorns/" />
